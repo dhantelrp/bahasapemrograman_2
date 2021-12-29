@@ -5,4 +5,5 @@ GIT
 - Mengisntall git
 - Bekerja dengan git
 - git branch & merge
-
+- git merge conflict
+- git remote
