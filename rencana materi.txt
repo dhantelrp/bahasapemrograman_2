@@ -1,7 +1,14 @@
 Materi yang akan dipelajari :
-- git dan GitHub
+
+GIT
+- Mengisntall git
+- Bekerja dengan git
+- git branch & merge
+- git merge conflict
+- git remote
 
 GITHUB
 - Bekerja dengan GitHub
 - GitHub branch
 - Github fork
+
