@@ -4,3 +4,5 @@ Materi yang akan dipelajari :
 GIT
 - Mengisntall git
 - Bekerja dengan git
+- git branch & merge
+
