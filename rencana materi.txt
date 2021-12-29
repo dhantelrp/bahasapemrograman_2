@@ -1,0 +1,2 @@
+Materi yang akan dipelajari :
+- git dan GitHub
