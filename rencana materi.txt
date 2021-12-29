@@ -1,2 +1,7 @@
 Materi yang akan dipelajari :
 - git dan GitHub
+
+GITHUB
+- Bekerja dengan GitHub
+- GitHub branch
+- Github fork
