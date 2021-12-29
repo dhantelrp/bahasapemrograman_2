@@ -1,2 +1,6 @@
 Materi yang akan dipelajari :
 - git dan GitHub
+
+GIT
+- Mengisntall git
+- Bekerja dengan git
